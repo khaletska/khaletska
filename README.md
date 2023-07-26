@@ -3,7 +3,6 @@
 - Passionate about building beautiful and efficient web and mobile applications.
 
 ### 2. Tech Stack:
-### 2. Tech Stack:
 - Back-end: [Go (Golang)](https://go.dev/), [Node.js](https://nodejs.org/en)
 - Front-end: [HTML](https://www.w3.org/html/), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [Javascript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [React.js](https://react.dev/)
 - Mobile: [Swift](https://www.swift.org/)
