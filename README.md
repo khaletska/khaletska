@@ -1,16 +1,22 @@
-### Hi there 👋
+### 1. About me:
+- Full-stack development student at [kood/Johvi](https://kood.tech/).
+- Passionate about building beautiful and efficient web and mobile applications.
 
-<!--
-**khaletska/khaletska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2. Skills:
+- [Golang](https://go.dev/)
+- [HTML](https://www.w3.org/html/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Javascript](https://www.javascript.com/)
+- [SQLite](https://sqlite.org/index.html)
 
-Here are some ideas to get you started:
+### 3. Tech Stack:
+- Back-end: Go (Golang), Node.js
+- Front-end: HTML, CSS, JavaScript, TypeScript, React.js
+- Mobile: Swift
+- Database: SQLite
+- Version control: Git, Bitbucket
+- Project management: Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 4. Education:
+- Full-stack development student at kood/Johvi
+- Master's degree in Space Research
