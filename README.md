@@ -1,8 +1,8 @@
 ## [PORTFOLIO](https://khaletska.github.io/portfolio/)
 
 ### About me:
-- Full-stack development student at [kood/Jõhvi](https://kood.tech/).
-- iOS Intern at [Pipedrive](https://www.pipedrive.com/).
+- iOS Developer at [Pipedrive](https://www.pipedrive.com/).
+- [kood/Jõhvi](https://kood.tech/) alumni.
 - Passionate about turning stunning designs into seamless user experiences.
 - Technical mind with over 5 years of experience in various engineering roles.
 - Equally able to work independently and as a collaborative team player. 
@@ -17,6 +17,6 @@
 - Always ready to dive into new technologies to ensure the best outcomes for all
 
 ### Education:
-- Full-stack development student at kood/Jõhvi
+- Full-stack developer in kood/Jõhvi
 - Master's degree in Space Research
 - Bachelor's degree in Mechanical Engineering
