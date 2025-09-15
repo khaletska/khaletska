@@ -1,7 +1,7 @@
 ## [PORTFOLIO](https://khaletska.github.io/portfolio/)
 
 ### About me:
-- iOS Developer at [Pipedrive](https://www.pipedrive.com/).
+- iOS Developer at [Wise](https://wise.com/).
 - [kood/Jõhvi](https://kood.tech/) alumni.
 - Passionate about turning stunning designs into seamless user experiences.
 - Technical mind with over 5 years of experience in various engineering roles.
